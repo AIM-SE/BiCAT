@@ -111,5 +111,5 @@ python main.py \
        --aug_traindata 17 \
        --M 18
 ```
-## Copntact
+## Contact
 Feel free to contact us if there is any question. (Juyong Jiang, juyongjiang@ust.hk; Russell KIM, russellkim@upstage.ai)
